@@ -1,3 +1,8 @@
-window.addEventListener('load', function() {
-  alert('Please subscribe to my channel!');
-});
+<!DOCTYPE html>
+<html>
+<body>
+  <script>
+    alert(document.domain);
+  </script>
+</body>
+</html>
